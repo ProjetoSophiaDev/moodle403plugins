@@ -150,3 +150,7 @@
 	path = moodle/admin/tool/certificate
 	url = https://github.com/moodleworkplace/moodle-tool_certificate.git
 	branch = master
+[submodule "moodle/enrol/autoenrol"]
+	path = moodle/enrol/autoenrol
+	url = https://github.com/bobopinna/moodle-enrol_autoenrol.git
+	branch = master
