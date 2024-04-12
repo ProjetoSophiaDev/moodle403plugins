@@ -1,5 +1,5 @@
 # moodle403plugins
-- https://moodledev.io/general/releases/4.2
+- https://moodledev.io/general/releases/4.3
 
 ## Disable Notifications
 
@@ -36,7 +36,7 @@ cd moodle
 
 - https://github.com/danmarsden/moodle-mod_attendance/
 ```bash
-git submodule add -b MOODLE_402_STABLE https://github.com/danmarsden/moodle-mod_attendance.git mod/attendance
+git submodule add -b MOODLE_403_STABLE https://github.com/danmarsden/moodle-mod_attendance.git mod/attendance
 ```
 
 - https://github.com/ndunand/moodle-mod_choicegroup
