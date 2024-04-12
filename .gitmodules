@@ -170,3 +170,7 @@
 	path = moodle/course/format/wplist
 	url = https://github.com/moodleworkplace/moodle-format_wplist.git
 	branch = master
+[submodule "moodle/theme/academi"]
+	path = moodle/theme/academi
+	url = https://github.com/ProjetoSophiaDev/academi.git
+	branch = main
