@@ -91,23 +91,6 @@ git submodule add -b master https://github.com/moodleworkplace/moodle-mod_course
 ```bash
 git submodule add -b master https://github.com/bostelm/moodle-mod_scheduler.git mod/scheduler
 ```
-
-### ATTO
-- https://github.com/dthies/moodle-atto_cloze
-```bash
-git submodule add -b master https://github.com/dthies/moodle-atto_cloze.git lib/editor/atto/plugins/cloze
-```
-
-- https://github.com/dthies/moodle-atto_fullscreen
-```bash
-git submodule add -b master https://github.com/dthies/moodle-atto_fullscreen.git lib/editor/atto/plugins/fullscreen
-```
-
-- https://moodle.org/plugins/atto_justify
-```bash
-git submodule add -b master https://github.com/moodle-ead/atto_justify.git lib/editor/atto/plugins/justify
-```
-
 ### BLOCK
 
 - https://github.com/FMCorz/moodle-block_xp
@@ -282,6 +265,22 @@ git submodule update --init
 - https://github.com/moodlehq/moodle-tool_migratehvp2h5p
 ```bash
 git submodule add -b master https://github.com/moodlehq/moodle-tool_migratehvp2h5p.git admin/tool/migratehvp2h5p
+```
+
+### ATTO
+- https://github.com/dthies/moodle-atto_cloze
+```bash
+git submodule add -b master https://github.com/dthies/moodle-atto_cloze.git lib/editor/atto/plugins/cloze
+```
+
+- https://github.com/dthies/moodle-atto_fullscreen
+```bash
+git submodule add -b master https://github.com/dthies/moodle-atto_fullscreen.git lib/editor/atto/plugins/fullscreen
+```
+
+- https://moodle.org/plugins/atto_justify
+```bash
+git submodule add -b master https://github.com/moodle-ead/atto_justify.git lib/editor/atto/plugins/justify
 ```
 
 ## Git commands
