@@ -238,7 +238,7 @@ git submodule add -b FORMAT_ETASK_23_STABLE https://gitlab.com/drlikm/format_eta
 git submodule add -b master https://github.com/moodleworkplace/moodle-format_wplist.git course/format/wplist
 ```
 
-### Theme
+### THEME
 
 - https://github.com/ProjetoSophiaDev/academi
 ```bash
