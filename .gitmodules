@@ -114,3 +114,15 @@
 	path = moodle/lib/editor/ousupsub
 	url = https://github.com/moodleou/moodle-editor_ousupsub.git
 	branch = main
+[submodule "moodle/report/coursesize"]
+	path = moodle/report/coursesize
+	url = https://github.com/catalyst/moodle-report_coursesize.git
+	branch = MOODLE_39_STABLE
+[submodule "moodle/report/benchmark"]
+	path = moodle/report/benchmark
+	url = https://github.com/mikasmart/moodle-report_benchmark.git
+	branch = master
+[submodule "moodle/report/allbackups"]
+	path = moodle/report/allbackups
+	url = https://github.com/catalyst/moodle-report_allbackups.git
+	branch = MOODLE_400_STABLE
